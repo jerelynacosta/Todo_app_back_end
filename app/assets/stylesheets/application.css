@@ -13,3 +13,51 @@
  *= require_tree .
  *= require_self
  */
+html{font-family: sans-serif;
+}
+.submit{
+    color: red;
+}
+.loginbutton {
+    color:blue;
+}
+.cancelbutton {
+    color:pink;
+}
+h2 {
+    background-color: #E74C3C;
+    color: #ECF0F1;
+}   
+    #mainContent {
+    width: 50%;
+    margin:0 auto;
+    }
+
+.title {
+    background-color:red;
+    padding:30px;
+    margin: 50px;
+    
+}
+.buttonSection{
+    background-color:blue;
+    width: 300px;
+}
+.edit{
+    background-color:green;
+    color:#fff;
+    padding:3px;
+}
+.delete{
+    background-color: red;
+    color: #fff;
+    padding: 3px;
+}
+    
+    .mainlist {
+    display: inline;
+    }
+
+.list  ul li {
+    margin-bottom: 10px;
+}
